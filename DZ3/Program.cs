@@ -3,7 +3,6 @@ Console.WriteLine ("Введите число ");
 string Number1 = Console.ReadLine ();
 int num1 = int.Parse (Number1);
 
-int max = 0;
 if (num1%2==0) {
     Console.WriteLine ("Ваше число чётное");
 } 
