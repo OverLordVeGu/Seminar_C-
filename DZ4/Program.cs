@@ -1,5 +1,5 @@
 ﻿Console.Clear ();
-Console.WriteLine ("Введите число ");
+Console.Write ("Введите число ");
 string Number1 = Console.ReadLine ();
 int num1 = int.Parse (Number1);
 int start = 1;
